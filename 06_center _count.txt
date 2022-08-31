@@ -1,0 +1,15 @@
+#center()
+
+a='india'
+print(a.center(20))
+
+a='india'
+print(a.center(20,'9'))
+
+#count()
+
+a='india is the best country and it is number one country'
+print(a.count('is'))
+
+a='You can use two or more specially designated characters within a string to format a 		string or perform a command. These characters are called escape sequences'
+print(a.count('a'))
